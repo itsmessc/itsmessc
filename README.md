@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sai Charan</h1>
-<h3 align="center">A passionate App and Web Developer from India</h3>
+<h3 align="center">A passionate App and Full stack Web Developer from India</h3>
 
 
 
