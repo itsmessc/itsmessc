@@ -11,9 +11,9 @@ I’m currently working on:
 <p align="left">
   <a href="https://linkedin.com/in/sai-charan-sanganwar-224878259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sai-charan-sanganwar-224878259" height="30" width="40" /></a>
   <a href="https://instagram.com/its_me_ssc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_me_ssc" height="30" width="40" /></a>
-  <a href="mailto:ssaicharan2212@gmail.com">
+<!--   <a href="mailto:ssaicharan2212@gmail.com">
   <img align="left" alt="GMail" width="60-px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="30" width="40" />
-</a>
+</a> -->
 </p>
 
 
