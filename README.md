@@ -1,4 +1,6 @@
-[![MasterHead](https://t4.ftcdn.net/jpg/04/19/26/97/360_F_419269782_9LsP3TQndMVnZ2j3ZhTPhMjaqQpFAth9.jpg)]
+<p align="center">
+  <img src="https://t4.ftcdn.net/jpg/04/19/26/97/360_F_419269782_9LsP3TQndMVnZ2j3ZhTPhMjaqQpFAth9.jpg" alt="MasterHead" width="100%">
+</p>
 <h1 align="center">Hi 👋, I'm Sai Charan</h1>
 <h3 align="center">A passionate App and Full stack Web Developer from India</h3>
 
