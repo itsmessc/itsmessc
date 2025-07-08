@@ -55,4 +55,4 @@ I’m currently working on:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsmessc" alt="itsmessc" /></p>
 
 
-![Visitor Count (01/01/21 onwards)](https://profile-counter.glitch.me/{istmessc}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{itsmessc}/count.svg)
